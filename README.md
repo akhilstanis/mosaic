@@ -1,6 +1,8 @@
 # Mosaic
 Simply put, Mosiac is an attempt to create a mosiac out of smartphones. This repo hosts the source code of Mosiac mobile application for iOS.
 
+![final](https://cloud.githubusercontent.com/assets/955760/12316994/b6b7cc5c-bab2-11e5-8258-92c7f3965686.jpg)
+
 ## How it works?
 Mosiac consists of two parts, [mosaic server](https://github.com/akhilstanislavose/mosaic-server) and mosaic mobile application. To generate a mosiac using smartphones do the following.
 
